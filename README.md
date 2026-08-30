@@ -1,4 +1,4 @@
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CardboardPL&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C000000%2C0E073161" style="display: block; width: 100%;">
+# Hello there!
 
 <!--
 **CardboardPL/CardboardPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
